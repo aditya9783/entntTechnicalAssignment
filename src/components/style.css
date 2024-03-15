@@ -1,0 +1,25 @@
+
+.sales{
+    
+  }
+.input-box{
+    position: relative;
+    border-color: 1px solid #333333 !important;
+  }
+  
+  .input-box i {
+    position: absolute;
+    left: 13px;
+    top:13px;
+    color:#ced4da;
+  
+  }
+  ::placeholder{
+    position: absolute;
+    left: 50px;
+  }
+
+  ul li{
+    list-style-type: none;
+  }
+  
